@@ -38,5 +38,5 @@ In order to run this project, run this command:
 ./bin/pianificatore Ordini/orders_file
 ```
 
-### Collaborators
+## Collaborators
 - [Mattia Danese](https://github.com/mattiadane)
