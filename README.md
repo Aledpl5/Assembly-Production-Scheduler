@@ -26,7 +26,7 @@ The second algoritm we use is the ```Earliest Deadline First``` and in case two 
 ## How to use
 Open a terminal and run these 3 commands:
 ```bash
-mkdir build
+mkdir obj
 mkdir bin
 make
 ```
