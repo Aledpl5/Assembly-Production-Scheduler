@@ -37,3 +37,6 @@ In order to run this project, run this command:
 ```bash
 ./bin/pianificatore Ordini/orders_file
 ```
+
+### Collaborators
+- [Mattia Danese](https://github.com/mattiadane)
